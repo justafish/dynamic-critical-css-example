@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-critical-css-example",
+  "version": "1.0.0",
+  "description": "Example for how to dynamically render critical css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sally Young",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justafish/dynamic-critical-css-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justafish/dynamic-critical-css-example/issues"
+  },
+  "homepage": "https://github.com/justafish/dynamic-critical-css-example#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mustache": "^2.2.1",
+    "purify-css": "^1.1.9"
+  }
+}
